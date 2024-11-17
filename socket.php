@@ -1,4 +1,0 @@
-<?php
-
-$servidor = new Server();
-
